@@ -43,7 +43,7 @@ Then, you need to split the images into training and test datasets. To do so, ru
 python data_split.py
 ```
 
-Now, you can train the model (you might need to create empty 'model' folder before running script below):
+Now, you can train the model (you might need to create an empty 'model' folder before running script below):
 ```
 python ResNet50_nn.py
 ```
