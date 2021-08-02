@@ -12,7 +12,7 @@ The neural network was learning on combination of few datasets:
 
 ## Installation
 For this project the following libraries were used:
-* OpenCV (installation: https://pypi.org/project/opencv-python/)
+* OpenCV (contrib version) (installation: https://pypi.org/project/opencv-python/)
 * Tensorflow 2.x (installation: https://www.tensorflow.org/install)
 * Keras (included with Tensorflow)
 * Pandas (installation: https://pandas.pydata.org/docs/getting_started/install.html)
